@@ -726,31 +726,6 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![212962293-ae0614dc-1ebc-42da-a7f0-fab2afc32142](https://user-images.githubusercontent.com/118680259/214501535-c9958314-212a-4a4e-99c7-18a874a37663.png)
-
-
-![212962354-3034be0d-3e3a-4d1d-a9a4-c6e61729db4e](https://user-images.githubusercontent.com/118680259/214501554-3ccd5247-d821-46a6-b1ce-f3e9570160da.png)
-
-![212962364-b9d0a2d0-eeef-4b94-ac8b-75d3a2d47c6d](https://user-images.githubusercontent.com/118680259/214501569-f110e16a-f2b3-45cd-82ea-91869ceb2766.png)
-
-
-![212962422-345ea8a4-ce89-4c5d-b81e-4c2bb617497c](https://user-images.githubusercontent.com/118680259/214501592-f828c657-ad8e-4d16-8398-7c0f1ab5cf8c.png)
-
-
-![212962441-f4819e62-fe6c-46a2-aa59-7c54b27e53bb](https://user-images.githubusercontent.com/118680259/214501602-5d370df1-e20e-432a-89d5-8d0531639b0f.png)
-
-
-
-![Uploading 212962452-7c23cd9b-f1e9-4429-921c-a76874f811df.png…]()
-
-
-
-![212962467-c3c616b9-811d-468f-b0a2-cc5f875671de](https://user-images.githubusercontent.com/118680259/214501617-c2a8bcf6-3af6-4fde-a685-3166eae612a0.png)
-
-
-
-![212962544-d57eed28-6635-46af-ae01-33e0c48e6246](https://user-images.githubusercontent.com/118680259/214502031-936476fe-04c0-4d26-a6b3-bdfb9140e391.png)
-
 
 
 ## Result:
