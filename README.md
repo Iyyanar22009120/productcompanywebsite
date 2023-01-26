@@ -725,6 +725,14 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![OUTPUT](./products%20home%20page.png)
+![OUTPUT](./products%20product%20page%201.png)
+![OUTPUT](./products%20product%20page%202.png)
+![OUTPUT](./products%20people%20page%201.png)
+![OUTPUT](./products%20people%20page%202.png)
+![OUTPUT](./products%20people%20page%203.png)
+![OUTPUT](./products%20people%20page%204.png)
+![OUTPUT](./products%20contact%20us.png)
 
 
 
